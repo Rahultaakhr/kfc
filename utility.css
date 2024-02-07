@@ -1,0 +1,16 @@
+.container{
+    width: 1242px;
+
+}
+.flex{
+    display: flex;
+}
+.item-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.m-auto{
+    margin: auto;
+}
